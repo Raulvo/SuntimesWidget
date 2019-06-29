@@ -1199,13 +1199,5 @@
     <string name="calculator_displayString_time4a_noaa">Sigue algoritmos publicados por la «National Oceanic and Atmospheric Administration».</string>
     <string name="calculator_displayString_time4a_cc">Sigue algoritmos publicados por Dershowitz / Reingold en su libro "Calendrical Calculations" (tercera edición).</string>
     <string name="calculator_displayString_time4a_4j">Basado en cálculos Astronómico publicados por Jean Meeus en su libro "Astronomical Algorithms" (segunda edición).</string>
-    <string name="configLabel_alarms_volumes">Volúmenes</string>
-    <string name="configLabel_alarms_notifications_on">Activadas</string>
-    <string name="configLabel_alarms_notifications_off">Apagadas. Las alarmas pueden no mostrarse correctamente.</string>
-    <string name="configLabel_alarms_notifications">Notificaciones</string>
-    <string name="configLabel_alarms_notifications_summary1">En la pantalla de bloqueo: %1%s</string>
-    <string name="notificationsWarning"><ns1:g id="warningTag">[w]</ns1:g> Las notificaciones están desactivadas. Las alarmas pueden no mostrarse correctamente.</string>
-    <string name="configAction_shareTheme">Compartir</string>
-    <string name="lengthUnits_usc">Costumbre de EEUU</string>
 
 </resources>
